@@ -1,0 +1,41 @@
+git config --list --> kiem tra email, username
+
+git config user.name
+
+git config user.email
+
+git config --global user.name aodaivietnam000 --> set username
+
+git config --global user.email aodaivietnam000@gmail.com --> set email
+
+git config --global user.password nhappassword --> set password
+
+
+
+git init -->khoi tao repository trong may
+
+git clone https://github.com/aodaivietnam000/deo02.git
+
+git status
+
+git add NewText.txt
+
+git add *
+
+git restore --> dung restore khi da pull ve may nhung ta lai chinh sua file vua moi pull dan den loi xung dot. restore de phuc hoi noi dung vua xoa
+
+git status
+
+git commit -m"Add new file NewText.txt"
+
+git commit -a -m"Add new file skip git add"
+
+git push to updateToGithub
+
+git pull to restoreToDestop -->Enter --> Shift :q
+
+git log --> Coppy --> Control + C (de thoat CommitLog) --> git revert -->Enter --> Shift :q
+
+git conflick --> xu ly xung dot
+
+exit
