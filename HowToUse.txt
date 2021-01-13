@@ -30,9 +30,11 @@ git commit -m"Add new file NewText.txt"
 
 git commit -a -m"Add new file skip git add"
 
-git push to updateToGithub
+git push --> updateToGithub
 
-git pull to restoreToDestop -->Enter --> Shift :q
+git pull --> restoreToDestop
+
+git pull linkPath --> chi tai ve cac file ben trong repository
 
 git log --> Coppy --> Control + C (de thoat CommitLog) --> git revert -->Enter --> Shift :q
 
