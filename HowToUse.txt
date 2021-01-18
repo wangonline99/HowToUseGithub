@@ -41,3 +41,5 @@ git log --> Coppy --> Control + C (de thoat CommitLog) --> git revert -->Enter -
 git conflick --> xu ly xung dot
 
 exit
+
+abc
